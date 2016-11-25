@@ -7,4 +7,6 @@ permalink: /credits/
 ---
 
 All credit for the algorithm development to “Image-to-Image Translation Using Conditional Adversarial Networks” by  
- [Phillip Isola](http://web.mit.edu/phillipi/), [Jun-Yan Zhu](https://people.eecs.berkeley.edu/~junyanz/), [Tinghui Zhou](https://people.eecs.berkeley.edu/~tinghuiz/), [Alexei A. Efros](https://people.eecs.berkeley.edu/~efros/) published in [arxiv, 2016](https://arxiv.org/pdf/1611.07004v1.pdf).
+ [Phillip Isola](http://web.mit.edu/phillipi/), [Jun-Yan Zhu](https://people.eecs.berkeley.edu/~junyanz/), [Tinghui Zhou](https://people.eecs.berkeley.edu/~tinghuiz/), [Alexei A. Efros](https://people.eecs.berkeley.edu/~efros/) published in [arxiv, 2016](https://arxiv.org/pdf/1611.07004v1.pdf). The included software, **pix2pix** can be found [here](https://phillipi.github.io/pix2pix/).
+
+Original satellite imagery and tilemaps downloaded from [Mapbox](https://www.mapbox.com/).
